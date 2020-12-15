@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Material Theme for [Hyper](https://hyper.is) <img width="32" alt="Hyper Material Theme" src="https://cloud.githubusercontent.com/assets/10454741/21241774/9172ddb6-c311-11e6-91ee-e4225ab9560a.gif">
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/09664dda15e84bdf8d041a18b9dc7c73)](https://www.codacy.com/app/astorino-design/hyper-material-theme?utm_source=github.com&utm_medium=referral&utm_content=equinusocio/hyper-material-theme&utm_campaign=badger)
